@@ -1,5 +1,9 @@
 # 제품 크기 비교 웹페이지
 
+### 즉시! 사용
+[https://dodookmung.github.io/product-size/](https://dodookmung.github.io/product-size/)
+
+
 **사용 방법**:
 1. `index.html`을 브라우저에서 열기
 2. 필요 시 이름 및 크기 입력창에서 값 변경
